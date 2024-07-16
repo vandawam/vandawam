@@ -24,9 +24,6 @@ I am a passionate software developer with experience in Laravel and React Js. I 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
 ## Projects
-### Featured Projects
-
-### Other Projects
 
 ## GitHub Stats
 ![Irvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandawam&show_icons=true&theme=radical)
