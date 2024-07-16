@@ -1,6 +1,6 @@
 # Hi there, I'm Irvan Dawam Multazam 👋
 
-![Profile views](https://gpvc.arturio.dev/vandawam)
+![Profile views](https://komarev.com/ghpvc/?username=vandawam)
 ![GitHub followers](https://img.shields.io/github/followers/vandawam?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/vandawam?style=social)
 
