@@ -1,9 +1,9 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Irvan Dawam Multazam] 👋
 
-![Profile views](https://gpvc.arturio.dev/username)
+![Profile views](https://gpvc.arturio.dev/vandawam)
 
 ## About Me
-I am a passionate software developer with experience in...
+I am a passionate software developer with experience in Laravel and React Js 
 
 ## Skills
 - **Languages:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
