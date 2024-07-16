@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/vandawam?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/vandawam?style=social)
 
-![Banner]([https://your-banner-url.com/banner.jpg](https://ibb.co.com/BgR9cpC))
+![Banner](https://your-banner-url.com/banner.jpg](https://ibb.co.com/BgR9cpC)](https://imgur.com/90gUDi5))
 
 ## About Me
 I am a passionate software developer with experience in Laravel and React Js. I love creating efficient and scalable web applications. Always eager to learn new technologies and improve my skills.
