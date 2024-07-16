@@ -25,12 +25,8 @@ I am a passionate software developer with experience in Laravel and React Js. I 
 
 ## Projects
 ### Featured Projects
-//- [Project 1](https://github.com/username/project1) - A brief description of project 1.
-//- [Project 2](https://github.com/username/project2) - A brief description of project 2.
 
 ### Other Projects
-- [Project 3](https://github.com/username/project3) - A brief description of project 3.
-- [Project 4](https://github.com/username/project4) - A brief description of project 4.
 
 ## GitHub Stats
 ![Irvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandawam&show_icons=true&theme=radical)
