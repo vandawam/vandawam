@@ -11,8 +11,7 @@ I am a passionate software developer with experience in Laravel and React Js. I 
 
 - 🌱 Currently learning: [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/)
 - 📫 How to reach me: [irvan@example.com](mailto:irvan@example.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing chess and hiking.
+- ⚡ Fun fact: I love chicken nuggets.
 
 ## Skills
 ### Languages
