@@ -9,7 +9,7 @@
 ## About Me
 I am a passionate software developer with experience in Laravel and React Js. I love creating efficient and scalable web applications. Always eager to learn new technologies and improve my skills.
 
-- 🌱 Currently learning: [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/)
+- 🌱 Currently learning: [Next.js](https://nextjs.org/), [Go](https://go.dev/)
 - 📫 How to reach me: [irvan@example.com](mailto:irvan@example.com)
 - ⚡ Fun fact: I love chicken nuggets.
 
