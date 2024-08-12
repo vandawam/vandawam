@@ -15,7 +15,8 @@ I am a passionate software developer with experience in Laravel and React Js. I 
 
 ## Skills
 ### Languages
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+
 
 ### Frameworks
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
